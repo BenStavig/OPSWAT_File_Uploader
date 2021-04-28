@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\stavi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\stavi\\.nuget\\packages"
+    ]
+  }
+}
